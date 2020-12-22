@@ -28,3 +28,4 @@ New-UDPage -Name "Home" -Icon home -Content {
 ```
 
 ## Again you need both modules for this to work
+![placeholder](https://github.com/psDevUK/UDBreadCrumb/blob/main/Breadcrumb.gif?raw=true "Simple Demo")
